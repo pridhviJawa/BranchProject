@@ -1,0 +1,10 @@
+Existing Code
+public static void main (String[] args) {
+	// existing main method
+}
+public static void greet() {
+	//greet page
+}
+public static count (){
+	// count logic
+}
